@@ -2,7 +2,7 @@
 permalink:        pretty
 
 # Setup
-url:              http://qwtel.com
+url:              http://arjunpoddar.github.io
 
 # Set to '' in case of hosting on `http://<your-github-name>.github.io`
 baseurl:          /hydejack
