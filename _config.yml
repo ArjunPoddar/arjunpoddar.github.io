@@ -5,9 +5,9 @@ permalink:        pretty
 url:              https://arjunpoddar.github.io/
 
 # Set to '' in case of hosting on `http://<your-github-name>.github.io`
-baseurl:          /hydejack
+baseurl:          https://arjunpoddar.github.io/
 
-title:            Hydejack
+title:            Arjun Poddar
 
 # Markdown enabled, however don't use more than one paragraph (enforced by `>`)
 description:      >
