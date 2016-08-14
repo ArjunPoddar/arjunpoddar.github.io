@@ -24,8 +24,9 @@ author:
   name:           'Arjun Poddar'
 
   # Setting social media usernames will add icons at the bottom of the sidebar
-  twitter:        qwtel
-  github:         qwtel
+  
+  github:         arjunpoddar
+  linkedin:       arjunpoddar
 
   # Setting a disqus username will enable the comment section
   disqus:         qwtel
